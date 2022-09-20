@@ -13,7 +13,7 @@
     <url>http://struts.apache.org/1.x</url>
     
     <properties>
-        <tomcatVersion>7.0.53</tomcatVersion>
+        <tomcatVersion>7.0.81</tomcatVersion>
         
     </properties>
     <dependencies>
